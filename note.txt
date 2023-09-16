@@ -1,0 +1,5 @@
+pink: #fb839e
+light blue: #3e99f5
+light green: #0dcdbd
+red: #cc3b3b
+yellow: #ff9800
