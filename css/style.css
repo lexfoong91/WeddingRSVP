@@ -75,12 +75,11 @@ footer{
 
 .header .logo a{
     padding: 10px 10px;
-    font-size: 30px;
+    font-size: 1.5rem;
     color: #fb839e;
     font-weight: bold;
     font-family: 'Great Vibes', cursive;
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    letter-spacing: 1px;
     text-shadow: 2px 2px white;
 }
 
